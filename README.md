@@ -5,7 +5,7 @@
 
 This is the curve with **order 3**
 
-![alt text](figures//order%20-%203.png "Order 3")
+<img src="figures//order%20-%203.png" width=50% height=50%>
 
 This is the curve with **order 5**
 
