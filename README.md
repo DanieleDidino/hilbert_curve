@@ -9,7 +9,7 @@ This is the curve with **order 3**
 
 This is the curve with **order 5**
 
-![alt text](figures//order%20-%205.png "Order 5")
+<img src="figures//order%20-%205.png" width=30% height=30%>
 
 This is the curve with **order 6**
 
